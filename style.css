@@ -5,7 +5,6 @@ h1{
     font-size: 50px;
     border-left: 1px solid red;
     
-    
 }
 .mission-color{
     color:orange;
@@ -17,4 +16,20 @@ h1{
     padding:10px 20px;
     border-radius: 5px;
     background-repeat: no-repeat;
+}
+.half-width{
+    width: 50%;
+    padding-left: 10%;
+}
+section{
+    display: flex;
+}
+.half-width img{
+    width: 80%;
+}
+
+.footer-mission{
+    text-align: center;
+    background-color: black;
+    color: white;
 }
