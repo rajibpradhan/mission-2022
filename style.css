@@ -3,8 +3,11 @@ body{
 }
 h1{
     font-size: 50px;
+    border-left: 5px solid rgb(118, 118, 133);
     
-    
+}
+h2{
+    font-size: 45px;
 }
 .mission-color{
     color:orange;
@@ -16,6 +19,7 @@ h1{
     padding:10px 20px;
     border-radius: 5px;
     background-repeat: no-repeat;
+    text-decoration: none;
 }
 .half-width{
     width: 50%;
@@ -57,9 +61,22 @@ h1{
 #goal-2022{
     background-color: rgb(158, 144, 144) ;
 }
-.my-1 h1{
+.my-1 h2{
     text-align: center;
 }
 .my-1 span{
     color: tomato;
+}
+.develop-limits{
+    background-image: url(images/shapes/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    margin-left: 2%;
+}
+.global-community{
+    background-image: url(images/shapes/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    margin-left: 2%;
+}
 }
