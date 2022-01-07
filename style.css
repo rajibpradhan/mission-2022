@@ -3,7 +3,7 @@ body{
 }
 h1{
     font-size: 50px;
-    border-left: 1px solid red;
+    
     
 }
 .mission-color{
@@ -32,4 +32,34 @@ h1{
     text-align: center;
     background-color: black;
     color: white;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+.footer-mission span{
+    color: tomato;
+}
+.my-mission{
+    border-radius: 10px ;
+    background-color: brown;
+    width: 35%;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-bottom: 5%;
+}
+#my-2022{
+    background-color: dimgray;
+}
+#vission-2022{
+    background-color: cornsilk;
+}
+#goal-2022{
+    background-color: rgb(158, 144, 144) ;
+}
+.my-1 h1{
+    text-align: center;
+}
+.my-1 span{
+    color: tomato;
 }
