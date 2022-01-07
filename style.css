@@ -21,7 +21,7 @@ h1{
     width: 50%;
     padding-left: 10%;
 }
-section{
+.flexible-container{
     display: flex;
 }
 .half-width img{
