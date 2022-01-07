@@ -1,0 +1,20 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+    border-left: 1px solid red;
+    
+    
+}
+.mission-color{
+    color:orange;
+
+}
+.explore-btn{
+    background-color: tomato;
+    color: white;
+    padding:10px 20px;
+    border-radius: 5px;
+    background-repeat: no-repeat;
+}
